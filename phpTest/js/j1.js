@@ -3,4 +3,7 @@
  */
 $(function(){
 
+	function a(){
+
+	}
 });
